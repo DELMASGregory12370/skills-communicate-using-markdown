@@ -2,3 +2,6 @@
 ## blog
 ### contact
 ### a propos
+
+
+Mise à jour des exemples de code
