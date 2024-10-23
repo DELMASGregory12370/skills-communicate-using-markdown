@@ -11,3 +11,7 @@ Mise à jour des exemples de code
 ``` javascript
 var myVar = "Bonjour tout le monde !";
 ```
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
